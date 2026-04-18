@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "a0bsCcniJ/U=",
+  "dgSpecHash": "G/S0kUXVWTI=",
   "success": true,
   "projectFilePath": "C:\\Users\\saraa\\Herança_tarefas\\Atividades_Heranca_POO\\Atividade_19_Abril\\Sistema_de_Escola\\Sistema_de_Escola.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\saraa\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\saraa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.15\\microsoft.windowsdesktop.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\saraa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.15\\microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\saraa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.15\\microsoft.netcore.app.host.win-x64.9.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
